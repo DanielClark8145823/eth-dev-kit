@@ -1,5 +1,5 @@
-# eth
-eth
+# 以太坊相关的代码模块
+
 
 文件名：ethereum_wallet_generator.py
 功能：离线生成以太坊钱包（地址 + 私钥 + 助记词），区块链入门必备
